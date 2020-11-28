@@ -9,11 +9,12 @@
 </a>
 -->
 <p float="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rianwardanaputra&theme=gruvbox&show_icons=true" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianwardanaputra&layout=compact&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rianwardanaputra&theme=gruvbox&show_icons=true" height="180px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianwardanaputra&layout=compact&theme=gruvbox" height="180px"/>
 </p>
 
 🌱 I’m a growing student (hopefully)
+
 
 <!--
 **RianWardanaPutra/RianWardanaPutra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
