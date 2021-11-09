@@ -9,8 +9,8 @@
 </a>
 -->
 <p float="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rianwardanaputra&theme=gruvbox&show_icons=true" height="180px"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianwardanaputra&layout=compact&theme=gruvbox" height="180px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rianwardanaputra&theme=gruvbox&show_icons=true" height="180px" width="50%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianwardanaputra&layout=compact&theme=gruvbox" height="180px" width="50%" />
 </p>
 
 🌱 I’m a growing student (hopefully)
